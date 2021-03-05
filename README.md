@@ -5,7 +5,7 @@
 This bot is supposed to be used as an interface to a shell in the machine which is hosting it.
 Can be useful as a secondary means to communicate with a machine.
 
-When you execute the _/exit_ command it will send back a log file which contains all the commands executed along with the output and timestamp of said command.
+When you execute the _/exit_ command the bot will send back a log file which contains all the commands executed along with the output and timestamp of said command. The bot will be stopped too.
 
 Change the _token.txt_ file with your own token. You can get it from here: [discord developer portal](https://discord.com/developers/applications).
 
