@@ -1,9 +1,11 @@
 # discordBasicCMDBot
 
-__Basic python discord Bot__
+*Basic python discord Bot*
 
 This bot is supposed to be used as an interface to a shell in the machine which is hosting it.
 Can be useful as a secondary means to communicate with a machine.
+
+Change the _token.txt_ file with your own token. You can get it fron here: [discord developer portal](https://discord.com/developers/applications).
 
 Help prompt:
 
