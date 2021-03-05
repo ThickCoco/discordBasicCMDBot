@@ -24,8 +24,7 @@ client.remove_command('help')
 #cierre de mala manera el programa
 async def signal_handler(sig, frame):
 	log.close()
-	#subprocess.run(["shred", "-f", "-u", "cmdBotLog.txt"])
-
+	subprocess.run(["shred", "-f", "-u", "cmdBotLog.txt"])
 	sys.exit(0)
 
 
